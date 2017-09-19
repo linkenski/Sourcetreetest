@@ -152,12 +152,16 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 794
-    height: 804
-  m_MinSize: {x: 202, y: 442}
-  m_MaxSize: {x: 4002, y: 8042}
+    width: 529
+    height: 466
+  m_MinSize: {x: 202, y: 421}
+  m_MaxSize: {x: 4002, y: 8021}
   vertical: 1
-  controlID: 25
+<<<<<<< HEAD
+  controlID: 50
+=======
+  controlID: 13
+>>>>>>> 3f5e47256dd645f6b4baae4d692069503d318c05
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -174,10 +178,17 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 794
-    height: 471
+<<<<<<< HEAD
+    width: 529
+    height: 245
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
+=======
+    width: 794
+    height: 471
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+>>>>>>> 3f5e47256dd645f6b4baae4d692069503d318c05
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
